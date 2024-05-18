@@ -60,7 +60,7 @@ font-size: 30px;
 }
 
 .contenedor {
-  background-image: url(/Imagenes/pexels-emma-pollard-676280-1534925.jpg); /* Aquí colocas la ruta de tu imagen */
+  background-image: url(/assets/img/pexels-emma-pollard-676280-1534925.jpg); /* Aquí colocas la ruta de tu imagen */
   background-size: 50%; /* Esto ajusta la imagen para que cubra todo el contenedor */
   /*background-position: center; /* Esto posiciona la imagen en el centro del contenedor */
   color: white; /* Esto define el color del texto */
